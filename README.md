@@ -1,11 +1,25 @@
-### Olá, eu sou a Aline Fernandes! 🖐️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/aline-fernandes-600b82185/)
+# Aline Fernandes aqui :)
+Analista de Dados e Programadora, criando conteúdos para o Medium e outras redes. Estudando Estatística e Machine Learning nas horas vagas para futuramente migrar para Ciencia de Dados.
 
-![Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=alinefernandezz&show_icons=true&theme=radical)
+- 👩🏻‍💻 Estagiária em Análise de Dados na [Camil Alimentos](https://camilalimentos.com.br/)
+- 👩🏻‍🎓 Estudante do curso Bacharel em **Ciencias da Computação**
+- ❤️ Apaixonada por tecnologia e dados
+- 💻 Atualmente mais focada em:
+  
+  <div style="display: inline">
+  <img width='110' height='50' src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   <img width='120' height='50' src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+     <img width='120' height='50' src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img width='120' height='50' src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img width='150' height='50' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  
+## Projetos
 
-### Tecnologias usadas por mim no dia-a-dia:
-<div style="display: inline_block"><br/>
-   <img align"center" alt=python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-   <img align"center" alt=python src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img align"center" alt=python src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/><img align"center" alt=python src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </div>
+- [Projeto 1](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb): Nossa intenção através desta análise é aumentar o número de vendas da marca no país. Para isto iremos analisar o histórico de vendas da loja em cada uma das regiões, e o produto que mais está saindo. Assim consequentemente aumentar as vendas e o lucro da marca.
+- [Projeto 2](https://github.com/alinefernandezz/analise_python_sql/blob/main/analise_com_python_e_sql.ipynb): Temos em mãos um arquivo com dados de pacientes que desenvolveram ou não diabetes. Precisamos gerar uma amostra de dados com os pacientes com mais de 50 anos e para cada um deles indicar em uma nova coluna se o paciente está normal (BMI menor que 30) ou obeso (BMI maior ou igual a 30). Então devemos gerar um novo arquivo CSV e encaminhar para o Cientista de Dados.
+## Contato
+
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias e conhecimentos.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinefernandezz/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alinefernandezz_/)
