@@ -16,8 +16,7 @@ Analista de Dados e Programadora, criando conteúdos para o Medium e outras rede
 ## Projetos
 
 - [Projeto 1](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb): Nossa intenção através desta análise é aumentar o número de vendas da marca no país. Para isto iremos analisar o histórico de vendas da loja em cada uma das regiões, e o produto que mais está saindo. Assim consequentemente aumentar as vendas e o lucro da marca.
-- [Projeto 2](https://github.com/alinefernandezz/analise_python_sql/blob/main/analise_com_python_e_sql.ipynb): Temos em mãos um arquivo com dados de pacientes que desenvolveram ou não diabetes. Precisamos gerar uma amostra de dados com os pacientes com mais de 50 anos e para cada um deles indicar em uma nova coluna se o paciente está normal (BMI menor que 30) ou obeso (BMI maior ou igual a 30). Então devemos gerar um novo arquivo CSV e encaminhar para o Cientista de Dados.
-## Contato
+
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias e conhecimentos.
 
