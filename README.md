@@ -1,5 +1,5 @@
 # Aline Fernandes aqui :)
-Analista de Dados e Programadora, criando conteúdos para o Medium e outras redes. Estudando Estatística e Machine Learning nas horas vagas para futuramente migrar para Ciencia de Dados.
+Sou analista de dados e programadora, sou apaixonada por criar conteúdo para o Medium e outras plataformas. Em constante evolução, estou empenhada em me tornar uma cientista de dados. Nas horas vagas, mergulho nos estudos de estatística e machine learning. Explore meu GitHub para acompanhar minha jornada entre dados, código e aprendizado contínuo.
 
 - 👩🏻‍💻 Estagiária em Análise de Dados na [Camil Alimentos](https://camilalimentos.com.br/)
 - 👩🏻‍🎓 Estudante do curso Bacharel em **Ciencias da Computação**
