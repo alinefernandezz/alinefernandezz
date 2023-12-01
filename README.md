@@ -16,7 +16,7 @@ Sou analista de dados e programadora, sou apaixonada por criar conteúdo para o 
 ## Projetos
 
 - [Projeto 1](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb):  Minha intenção através desta análise é aumentar o número de vendas da marca no país. Para isto iremos analisar o histórico de vendas da loja em cada uma das regiões, e o produto que mais está saindo. Assim consequentemente aumentar as vendas e o lucro da marca.
-- - [Projeto 2](https://github.com/alinefernandezz/jogoquebra_cabe-a): Jogo de quebra cabeça simples, desenvolvido em Python para testar conhecimento de lógica de programação o conhecimento sobre a linguagem.
+- [Projeto 2](https://github.com/alinefernandezz/jogoquebra_cabe-a): Jogo de quebra cabeça simples, desenvolvido em Python para testar conhecimento de lógica de programação e o meu conhecimento sobre a linguagem.
 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias e conhecimentos.
