@@ -2,7 +2,8 @@
 Sou analista de dados e programadora, sou apaixonada por criar conteúdo para o Medium e outras plataformas. Em constante evolução, estou empenhada em me tornar uma cientista de dados. Nas horas vagas, mergulho nos estudos de estatística e machine learning. Explore meu GitHub para acompanhar minha jornada entre dados, código e aprendizado contínuo.
 
 - 👩🏻‍💻 Estagiária em Análise de Dados na [Camil Alimentos](https://camilalimentos.com.br/)
-- 👩🏻‍🎓 Estudante do curso Bacharel em **Ciencias da Computação**
+- 👩🏻‍🎓 Estudante dos cursos Bacharel em **Ciencias da Computação** e técnólogo em **Ciência de Dados**
+
 - ❤️ Apaixonada por tecnologia e dados
 - 💻 Atualmente mais focada em:
   
@@ -17,6 +18,7 @@ Sou analista de dados e programadora, sou apaixonada por criar conteúdo para o 
 
 - [Projeto 1](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb):  Minha intenção através desta análise é aumentar o número de vendas da marca no país. Para isto iremos analisar o histórico de vendas da loja em cada uma das regiões, e o produto que mais está saindo. Assim consequentemente aumentar as vendas e o lucro da marca.
 - [Projeto 2](https://github.com/alinefernandezz/jogoquebra_cabe-a): Jogo de quebra cabeça simples, desenvolvido em Python para testar conhecimento de lógica de programação e o meu conhecimento sobre a linguagem.
+- [Projeto 3](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb): Este repositório contém um modelo de predição de doenças cardíacas desenvolvido com o objetivo de auxiliar na identificação precoce de condições cardíacas. O modelo utiliza técnicas de ciência de dados e aprendizado de máquina para analisar dados clínicos e de saúde de pacientes e prever a probabilidade de ocorrência de doenças cardíacas.
 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias e conhecimentos.
