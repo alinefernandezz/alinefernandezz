@@ -1,27 +1,19 @@
-# Aline Fernandes aqui :)
-Sou analista de dados e programadora, sou apaixonada por criar conteúdo para o Medium e outras plataformas. Em constante evolução, estou empenhada em me tornar uma cientista de dados. Nas horas vagas, mergulho nos estudos de estatística e machine learning. Explore meu GitHub para acompanhar minha jornada entre dados, código e aprendizado contínuo.
+<h1 align="center">Hi 👋, I'm Aline Fernandes</h1>
+<h3 align="center">Sou cientista de dados e programadora, sou apaixonada por criar conteúdo para o Medium e outras plataformas. Em constante evolução, estou empenhada em me tornar uma cientista de dados. Nas horas vagas, mergulho nos estudos de estatística e machine learning. Explore meu GitHub para acompanhar minha jornada entre dados, código e aprendizado contínuo.</h3>
 
-- 👩🏻‍💻 Estagiária em Análise de Dados na [Camil Alimentos](https://camilalimentos.com.br/)
-- 👩🏻‍🎓 Estudante dos cursos Bacharel em **Ciencias da Computação** e técnólogo em **Ciência de Dados**
+- 🎲 1 - Projeto desenvolvido: [Análise Exploratória de Vendas](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb)
 
-- ❤️ Apaixonada por tecnologia e dados
-- 💻 Atualmente mais focada em:
-  
-  <div style="display: inline">
-  <img width='110' height='50' src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-   <img width='120' height='50' src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-     <img width='120' height='50' src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img width='120' height='50' src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img width='150' height='50' src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  
-## Projetos
+- 🎮 2 - Projeto desenvolvido: [Jogo de Quebra Cabeças](https://github.com/alinefernandezz/jogoquebra_cabe-a)
 
-- [Projeto 1](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb):  Minha intenção através desta análise é aumentar o número de vendas da marca no país. Para isto iremos analisar o histórico de vendas da loja em cada uma das regiões, e o produto que mais está saindo. Assim consequentemente aumentar as vendas e o lucro da marca.
-- [Projeto 2](https://github.com/alinefernandezz/jogoquebra_cabe-a): Jogo de quebra cabeça simples, desenvolvido em Python para testar conhecimento de lógica de programação e o meu conhecimento sobre a linguagem.
-- [Projeto 3](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb): Este repositório contém um modelo de predição de doenças cardíacas desenvolvido com o objetivo de auxiliar na identificação precoce de condições cardíacas. O modelo utiliza técnicas de ciência de dados e aprendizado de máquina para analisar dados clínicos e de saúde de pacientes e prever a probabilidade de ocorrência de doenças cardíacas.
+- 🎲 3 - Projeto desenvolvido: [Modelo de Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/alinefernandezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinefernandezz" height="30" width="40" /></a>
+<a href="https://fb.com/alinefernandezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alinefernandezz" height="30" width="40" /></a>
+<a href="https://instagram.com/alinefernandezz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alinefernandezz_" height="30" width="40" /></a>
+</p>
 
-Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente para trocar ideias e conhecimentos.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinefernandezz/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alinefernandezz_/)
