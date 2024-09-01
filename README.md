@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aline Fernandes</h1>
 <h3 align="center">Sou cientista de dados e programadora, sou apaixonada por criar conteúdo para o Medium e outras plataformas. Em constante evolução, estou empenhada em me tornar uma cientista de dados. Nas horas vagas, mergulho nos estudos de estatística e machine learning. Explore meu GitHub para acompanhar minha jornada entre dados, código e aprendizado contínuo.</h3>
 
-- 🎲 1 - Projeto desenvolvido: [Análise Exploratória de Vendas](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb)
+- 🎲 1 - Análise Exploratória de Vendas (EDA) - Adidas: [Análise Exploratória de Vendas](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb)
 
-- 🎮 2 - Projeto desenvolvido: [Jogo de Quebra Cabeças](https://github.com/alinefernandezz/jogoquebra_cabe-a)
+- 🎲 2 - Análise Exploratória sobre Vendas de Produto Financeiro: [Análise Exploratória sobre Vendas de Produto Financeiro](https://github.com/alinefernandezz/analise_explo_finan)
 
-- 🎲 3 - Projeto desenvolvido: [Modelo de Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb)
+- 🎲 3 - Modelo de Predição de Doenças Cardíacas: [Modelo de Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
