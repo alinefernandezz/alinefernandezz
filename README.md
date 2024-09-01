@@ -3,7 +3,7 @@
 
 - 🎲 1 - Análise Exploratória de Vendas (EDA) - Adidas: [Análise Exploratória de Vendas](https://github.com/alinefernandezz/an-lise_vendas_adidas/blob/main/analise_vendas_adidas.ipynb)
 
-- 🎲 2 - Análise Exploratória sobre Vendas de Produto Financeiro: [Análise Exploratória sobre Vendas de Produto Financeiro](https://github.com/alinefernandezz/analise_explo_finan)
+- 🎲 2 - Análise Exploratória sobre Vendas de Produto Financeiro: [Análise Exploratória sobre Vendas de Produto Financeiro](https://github.com/alinefernandezz/analise_explo_finan/blob/main/an%C3%A1lise_explorat%C3%B3ria.ipynb)
 
 - 🎲 3 - Modelo de Predição de Doenças Cardíacas: [Modelo de Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb)
 
