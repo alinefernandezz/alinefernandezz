@@ -7,7 +7,7 @@
 
 - 🎲 3 - Modelo de Predição de Doenças Cardíacas: [Modelo de Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb)
 
- - 🎲 3 - Análise e Modelo de Previsão da qualidade dos vinhos: [Previsão da Qualidade dos Vinhos](https://github.com/alinefernandezz/previs-o_qualidade_vinhos/blob/main/previsao_qualidade_vinhos.ipynb)
+ - 🎲 4 - Análise e Modelo de Previsão da qualidade dos vinhos: [Previsão da Qualidade dos Vinhos](https://github.com/alinefernandezz/previs-o_qualidade_vinhos/blob/main/previsao_qualidade_vinhos.ipynb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
