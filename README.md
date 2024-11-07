@@ -7,6 +7,9 @@
 
 - 🎲 3 - Modelo de Predição de Doenças Cardíacas: [Modelo de Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb)
 
+ - 🎲 4 - Análise e Modelo de Previsão da Qualidade dos vinhos: [Modelo de Previsão da Qualidade dos vinhos]
+    (https://github.com/alinefernandezz/previs-o_qualidade_vinhos/blob/main/previsao_qualidade_vinhos.ipynb)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alinefernandezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alinefernandezz" height="30" width="40" /></a>
