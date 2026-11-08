@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou a Aline Fernandes</h1>
+<h1 align="center">Aline Fernandes</h1>
 
 <p align="center">
-  <b>Analista de Dados de Estratégia Comercial</b> · Cientista de Dados · Estudante de Matemática
+  Analista de Dados de Estratégia Comercial · Cientista de Dados · Bacharelanda em Matemática
 </p>
 
 <p align="center">
@@ -12,30 +12,27 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre
 
-- 📊 Atuo como **Analista de Dados de Estratégia Comercial**, transformando dados de vendas em decisões de negócio
-- 🎯 Cuido de **metas**, **remuneração variável** e **programas de incentivo** da força de vendas
-- 🎓 Formada em **Ciência de Dados** e cursando **Bacharelado em Matemática**
-- 🤖 No dia a dia, uso **programação**, **Power BI** e **Inteligência Artificial** para gerar inteligência comercial
-- 🧠 Estudo continuamente **estatística**, **machine learning** e os fundamentos matemáticos por trás dos modelos
-- ✍️ Escrevo sobre dados no **Medium** e em outras plataformas
+Sou analista de dados na área de Estratégia Comercial, formada em Ciência de Dados e cursando Bacharelado em Matemática. Atuo com metas, remuneração variável e programas de incentivo da força de vendas, usando programação, Power BI e inteligência artificial para apoiar as decisões da área.
+
+Estudo estatística e machine learning de forma contínua e compartilho o que aprendo em artigos no Medium.
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos
 
 | # | Projeto | Tipo | Descrição |
 |---|---------|------|-----------|
-| 1 | [Vendas de Produto Financeiro](https://github.com/alinefernandezz/analise_explo_finan/blob/main/an%C3%A1lise_explorat%C3%B3ria.ipynb) | EDA | Exploração do perfil de clientes e dos fatores que influenciam a conversão |
-| 2 | [Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb) | Machine Learning | Modelo de classificação para prever risco de insuficiência cardíaca |
-| 3 | [Previsão da Qualidade de Vinhos](https://github.com/alinefernandezz/previs-o_qualidade_vinhos/blob/main/previsao_qualidade_vinhos.ipynb) | Machine Learning | Análise e modelo preditivo da qualidade de vinhos a partir de atributos físico-químicos |
+| 1 | [Vendas de Produto Financeiro](https://github.com/alinefernandezz/analise_explo_finan/blob/main/an%C3%A1lise_explorat%C3%B3ria.ipynb) | Análise exploratória | Perfil de clientes e fatores associados à conversão em vendas |
+| 2 | [Predição de Doenças Cardíacas](https://github.com/alinefernandezz/insuficiencia_cardiaca/blob/main/Insuficie%CC%82nciaCardi%CC%81aca.ipynb) | Machine learning | Modelo de classificação para estimar o risco de insuficiência cardíaca |
+| 3 | [Previsão da Qualidade de Vinhos](https://github.com/alinefernandezz/previs-o_qualidade_vinhos/blob/main/previsao_qualidade_vinhos.ipynb) | Machine learning | Análise e modelo preditivo da qualidade a partir de atributos físico-químicos |
 
 ---
 
-## 🛠️ Ferramentas e tecnologias
+## Tecnologias
 
-**Dados & Análise**
+**Dados e análise**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -65,5 +62,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=alinefernandezz&show_icons=true&hide_border=true&theme=default" height="150" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinefernandezz&layout=compact&hide_border=true" height="150" alt="Linguagens mais usadas"/>
 </p>
-
-<p align="center"><i>Explore meus repositórios para acompanhar minha jornada entre dados, matemática e código.</i></p>
